@@ -1,0 +1,5 @@
+google-analytics-data
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
